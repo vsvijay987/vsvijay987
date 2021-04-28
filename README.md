@@ -43,4 +43,4 @@
 
 [twitter]: https://twitter.com/ninja_vinja
 [instagram]: https://www.instagram.com/_v__jay_/
-[linkedin]: https://www.linkedin.com/in/vijay-sahu-74a32058/
+[linkedin]: https://www.linkedin.com/in/vsvijay987/
