@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning React Native framework
 - 👯 I’m looking to collaborate on Javascript Projects
 - 💬 Ask me about Javascript, ReactJS
-- ⚡ Fun fact: I love to draw and play Football
 
 ### Connect with me:
 
